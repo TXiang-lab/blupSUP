@@ -1,0 +1,15 @@
+Package: blupSUP
+Type: Package
+Title: Supplementary data for package: blupADC 
+Version: 1.0.0
+Date: 2023-03-17
+Authors@R: c(person("Quanshun", "Mei",
+    role=c("aut", "cre"),
+    email="quanshun1994@gmail.com")
+    )
+Author: Quanshun Mei
+Maintainer: Quanshun Mei <quanshun1994@gmail.com>
+Description: Supplementary data for package: blupADC 
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
